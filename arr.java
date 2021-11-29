@@ -1,7 +1,7 @@
-# javaDsa
 class Main{
 
 public static void main (String[] args) {
+  System.out.println("hello");
   int[] arr;
           
       // allocating memory for 5 integers.
